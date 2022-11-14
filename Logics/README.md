@@ -3,7 +3,7 @@
 ## Main goals:
 
 - Fill unlimited amount of chests.
-- One source storage
+- One source storage.
 - Single type of resource for each endpoint.
 - Individual requests.
 - Scalable amount of storage chests.
